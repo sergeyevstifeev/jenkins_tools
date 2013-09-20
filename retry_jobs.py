@@ -2,6 +2,8 @@
 """
 Retrying jenkins jobs through REST API using autojenkins library (https://github.com/txels/autojenkins/).
 
+Solving the wrong problem? Oh yes it is...
+
 The script accepts path to a json config file of the following format:
 
 {"jobs":
